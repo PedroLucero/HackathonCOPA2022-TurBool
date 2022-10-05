@@ -5,7 +5,7 @@ Realizado por el equipo TurBool.
 
 miembros:
 
-Pedro Lucero - Líder
-Daniel Napoli
-Javier Napoli
-Stefan Vásquez
+★ Pedro Lucero - Líder
+★ Daniel Napoli
+★ Javier Napoli
+★ Stefan Vásquez
